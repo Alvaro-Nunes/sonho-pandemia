@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    margin-left: 15px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2, h3 {
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.links {
+    text-decoration: none;
+    color: rgb(204, 203, 203);
+}
+
+img {
+    border-bottom: 10px solid transparent;
+    width: 100%;
+    max-width: 600px;
+
+}
+
+.footerPage {
+    color: whitesmoke;
+}
+
+.imgEditor {
+    border: 1px solid transparent;
+    width: 100%;
+    max-width: 35px;
+    border-radius: 100%;
+} 
