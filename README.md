@@ -1,2 +1,2 @@
 # sonho-pandemia
-ta vazia
+access: https://alvaro-nunes.github.io/sonho-pandemia/
